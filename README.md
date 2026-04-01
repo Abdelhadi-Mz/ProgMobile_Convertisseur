@@ -168,5 +168,7 @@ Ce projet est realise dans le cadre d'un laboratoire pedagogique.
 
 ## Screenshot
 
-![App Screenshot](screenshot.png)
-![App Screenshot](screenshot1.png)
+<img width="197" height="391" alt="screenshot" src="https://github.com/user-attachments/assets/1abc9daa-2185-42d9-851c-466c6c8f5715" />
+
+<img width="200" height="389" alt="screenshot1" src="https://github.com/user-attachments/assets/18b37a12-c96f-4320-a336-59025ee9728a" />
+
